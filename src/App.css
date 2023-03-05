@@ -1,0 +1,7 @@
+#App {
+  text-align: center;
+  display: grid;
+  place-content: center;
+  height: auto;
+  background-color: rgb(105, 119, 179);
+}
